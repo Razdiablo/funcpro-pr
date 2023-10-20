@@ -1,3 +1,6 @@
+// Nama: Sahrizal Ramadhani Budiarto
+// Nim: 222410103045
+
 // Kode 1
 List<int> sequenceGenerator(int start, int stop) =>
     List.generate(stop - start + 1, (index) => start + index);
